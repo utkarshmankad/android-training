@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Currency-Converter</string>
+    <string name="prompt">Enter value in INR</string>
+</resources>
